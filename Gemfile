@@ -46,6 +46,8 @@ gem "fast_jsonapi"
 
 gem 'active_model_serializers', '~> 0.10.13'
 
+gem 'rack-cors', '~> 0.3.1'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
